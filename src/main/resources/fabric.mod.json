@@ -11,18 +11,13 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "com.drtdrc.delimitedanvils.client.DelimitedanvilsClient"
     ],
     "main": [
       "com.drtdrc.delimitedanvils.Delimitedanvils"
     ]
   },
   "mixins": [
-    "delimitedanvils.mixins.json",
-    {
-      "config": "delimitedanvils.client.mixins.json",
-      "environment": "client"
-    }
+    "delimitedanvils.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=${loader_version}",
