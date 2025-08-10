@@ -4,6 +4,7 @@
   "package": "com.drtdrc.delimitedanvils.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
+    "AnvilScreenHandlerMixin"
   ],
   "injectors": {
     "defaultRequire": 1

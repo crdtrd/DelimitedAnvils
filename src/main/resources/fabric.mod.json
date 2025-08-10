@@ -7,13 +7,12 @@
   "authors": [],
   "contact": {},
   "license": "All-Rights-Reserved",
-  "icon": "assets/delimitedanvils/icon.png",
   "environment": "*",
   "entrypoints": {
     "client": [
     ],
     "main": [
-      "com.drtdrc.delimitedanvils.Delimitedanvils"
+      "com.drtdrc.delimitedanvils.DelimitedAnvils"
     ]
   },
   "mixins": [
