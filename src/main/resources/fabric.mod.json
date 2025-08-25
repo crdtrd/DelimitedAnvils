@@ -9,8 +9,6 @@
   "license": "All-Rights-Reserved",
   "environment": "*",
   "entrypoints": {
-    "client": [
-    ],
     "main": [
       "com.drtdrc.delimitedanvils.DelimitedAnvils"
     ]

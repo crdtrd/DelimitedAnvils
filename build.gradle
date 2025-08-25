@@ -16,7 +16,6 @@ loom {
     mods {
         "delimitedanvils" {
             sourceSet sourceSets.main
-            sourceSet sourceSets.client
         }
     }
 }
