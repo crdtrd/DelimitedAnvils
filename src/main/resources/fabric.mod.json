@@ -3,14 +3,15 @@
   "id": "delimitedanvils",
   "version": "${version}",
   "name": "DelimitedAnvils",
-  "description": "Mineable Bedrock. Duh",
-  "authors": [],
-  "contact": {},
-  "license": "All-Rights-Reserved",
+  "icon": "assets/delimitedanvils/icon.png",
+  "description": "Removes the level cost limit from anvils. Now you can spend even more XP!",
+  "authors": ["crdtrd"],
+  "contact": {
+    "issues": "https://github.com/crdtrd/DelimitedAnvils/issues"
+  },
+  "license": "MIT",
   "environment": "*",
   "entrypoints": {
-    "client": [
-    ],
     "main": [
       "com.drtdrc.delimitedanvils.DelimitedAnvils"
     ]
